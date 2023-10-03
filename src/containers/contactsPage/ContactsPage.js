@@ -34,7 +34,7 @@ export const ContactsPage = ({ contacts, newContact }) => {
   contacts array variable in props
   */
   useEffect(() => {
-    const isDuplicate = contacts.some((contact) => name == contact.name);
+    const isDuplicate = contacts.some((contact) => name === contact.name);
     if (isDuplicate) {
       setDuplicate(true);
       alert(`Looks like ${name} is already in your contacts`)
