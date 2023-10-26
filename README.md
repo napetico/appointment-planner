@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site URL
+
+Deployed with Netlify.
+Open [https://main--appointment-planner-napetico.netlify.app/](https://main--appointment-planner-napetico.netlify.app/) to visit the site.
+
 ## Available Scripts
 
 In the project directory, you can run:
